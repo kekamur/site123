@@ -1,0 +1,52 @@
+.s1 {
+    background-image: url('img/fon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#utp {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: sans-serif "avantgarde";
+    font-size: 1.3cm;
+    font-weight: 400;
+    outline: 15px solid dodgerblue;
+    padding: 35px;
+    background-color: blue;
+
+
+}
+
+
+#pricebutton {
+    margin-bottom: 40px
+}
+
+#apple {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+#text2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    color: blue
+}
+
+.carousel-caption {
+    color: blue;
+    outline: 5px solid white;
+    background-color: aliceblue;
+
+}
+#text3{margin-top: 50px;
+margin-bottom: 10px;
+color:blue;}
+#control{color:black}
